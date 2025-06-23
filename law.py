@@ -21,8 +21,7 @@ import os
 st.set_page_config(page_title="LawGPT")
 col1, col2, col3 = st.columns([1,4,1])
 with col2:
-    st.image("https://github.com/harshitv804/LawGPT/assets/100853494/ecff5d3c-f105-4ba2-a93a-500282f0bf00")
-
+    st.image(https://github.com/jaya700/JustiQuery-IPC-Law-Chatbot)
 
 st.markdown(
     """
