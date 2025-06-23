@@ -23,6 +23,7 @@ col1, col2, col3 = st.columns([1,4,1])
 with col2:
     st.image("https://github.com/harshitv804/LawGPT/assets/100853494/ecff5d3c-f105-4ba2-a93a-500282f0bf00")
 
+
 st.markdown(
     """
     <style>
